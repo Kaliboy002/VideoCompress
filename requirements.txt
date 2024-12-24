@@ -1,9 +1,8 @@
+pyrogram
+pillow
+pymongo
+ffmpeg
 aiohttp
-Pillow
 psutil
-hachoir
-tgcrypto
-Pyrogram==1.4.16
-motor
-git+https://github.com/Tinche/aiofiles.git#egg=aiofiles
+python-dotenv
 dnspython
